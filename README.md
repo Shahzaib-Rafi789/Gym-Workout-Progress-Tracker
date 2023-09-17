@@ -11,8 +11,9 @@ In the modern age of fitness and well-being, keeping track of one's workout prog
 
 
 ### Project Technology:
-
-For this project, I will be using C# and will make a desktop application.
-I have choosen this language because I am confident in my ability to develop and maintain C# applications. 
-I will also be using some databases that will be used to store data related to the project.
-With time I will add relevant technologies to make this project better.
+I will be developing a mobile application for this project.
+Programming language: Dart(Flutter)
+Flutter SDK
+Android Studio 
+This stack includes a variety of popular and well-supported technologies that can be used to build a robust and scalable mobile app with a single codebase for both Android and iOS.
+I have choosen this because Flutter is a powerful and flexible framework for developing mobile apps.
